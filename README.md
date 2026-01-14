@@ -1,4 +1,4 @@
-# Mechanical Chime System – MECE-104
+![Mechanical Chime CAD Model](images/cad-overview.png)
 
 This project was completed as part of **MECE-104 (Engineering Design Tools)** at RIT during Fall 2025.  
 Our team designed and built a mechanically actuated chime system controlled by an Arduino that can automatically play a short song(45 seconds).
