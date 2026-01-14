@@ -21,7 +21,7 @@ Once started, the system homes itself and then plays a full sequence of notes ov
 
 ## What I worked on
 
-This was a **group project**. My main contributions included:
+This was a **group project**(Group members: Liam Foley, Caedin Bodach-Turner, Wayne Jean Baptiste, Roan Merluccio). My main contributions included:
 - Writing the Arduino control logic for motor movement and solenoid actuation  
 - Implementing homing using limit switches  
 - Mapping physical chime positions to software logic  
